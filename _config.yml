@@ -11,7 +11,11 @@ description: Student in the great DCGS!
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn3.iconfinder.com/data/icons/minicons-for-web-sites/24/minicons2-14-512.png
 
-#
+# Storage of post images and assets
+post_assets: images
+genaeral_assets: images
+
+
 # Flags below are optional
 #
 
