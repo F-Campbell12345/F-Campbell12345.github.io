@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: E Safety Lesson
 layout: post
 author: finlay.campbell
 permalink: /untitled-document/
