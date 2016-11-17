@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Fuze Box Lesson 1
 layout: post
 author: finlay.campbell
 permalink: /untitled-document/
