@@ -22,10 +22,12 @@ body {
         background-repeat: no-repeat;
         background-position: right top;
         background-attachment: fixed;
- 
+}
+
+body {
   font: 18px/1.4 "Times New Roman";
   color: $blue
-
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
