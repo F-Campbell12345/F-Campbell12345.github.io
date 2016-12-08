@@ -6,6 +6,8 @@ permalink: /fuze-box-lesson-8/
 source-id: 1JajVGK62pSaTZIT_P9zgivVlvDVjqylPesv7zkL6wyM
 published: true
 ---
+Fuze Lesson 8
+
 In IT today we worked on fixing our blogs and improving the quality of the posts. I made amazing progress in the lesson and managed to change my blog from a relatively boring website into an attractive on with an interesting background and font. I also managed to complete my target of not getting distracted and set myself a new one of being able to set my background to a fixed position
 
 I have also decided to treat my blog as more of an important project than a side project, it is now my main priority for IT lessons.
