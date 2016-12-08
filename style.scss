@@ -24,6 +24,14 @@ body {
    background-attachment: fixed;
 }
 
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
 body {
   font: 18px/1.4 "Times New Roman";
   color: $blue
