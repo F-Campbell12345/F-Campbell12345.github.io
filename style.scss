@@ -1,5 +1,5 @@
 
-.container {  margin: 0 auto;  max-width: 740px;  padding: 0 10px;  width: 100%;  background: rgba(35, 50, 55, 0.9);  border-radius: 25px;}---
+---
 ---
 
 //
@@ -25,6 +25,8 @@ body {
    background-attachment: fixed;
 }
 
+.container {  margin: 0 auto;  max-width: 740px;  padding: 0 10px;  width: 100%;  background: rgba(35, 50, 55, 0.9);  border-radius: 25px;}
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -37,7 +39,7 @@ table, th, td {
 
 body {
   font: 18px/1.4 "Times New Roman";
-  color: $blue
+  color: $blue;
 }
 
 h1, h2, h3, h4, h5, h6 {
