@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I an like a guy
 
 ### More Information
 I am like a guy
