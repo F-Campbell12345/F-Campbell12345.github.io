@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github Template
+title: Coding and cyphers
 layout: post
 author: finlay.campbell
 permalink: /copy-of-using-github-template/
