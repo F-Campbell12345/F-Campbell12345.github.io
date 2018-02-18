@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I an like a guy
+To sign up to the fan club...aw who am i kidding...everyone hates Hawkeye
 
 ### More Information
-I am like a guy
+Hawkeye for life!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Hawkeyefan#1@hawkeyefanclub.co.uk
